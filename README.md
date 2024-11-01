@@ -1,10 +1,10 @@
-![INKWISE](https://github.com/jacobmoses10/2024SIS_Team18/blob/main/Frontend/src/assets/inkwise_logo3.png)
 
 
 
 https://github.com/user-attachments/assets/a449bd26-756e-4ce9-b707-cbf40204bdcf
 
 
+![INKWISE](https://github.com/jacobmoses10/2024SIS_Team18/blob/main/Frontend/src/assets/inkwise_logo3.png)
 
 
 
